@@ -53,7 +53,7 @@ for tempname in externals:
 print("Creating index with listing")
 with open(os.path.join("docs","index.html"), "w") as index:
     index.write("<html><body>")
-    repofolder = os.path.join("repository","repository.cache-sk")
+    repofolder = os.path.join("repository","repository.sleduj-tv")
     files = [f for f in os.listdir(repofolder) if os.path.isfile(os.path.join(repofolder,f)) and f.endswith(".zip")]
     for f in files:
         shutil.copy(os.path.join(repofolder,f),"docs")
