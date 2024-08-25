@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<addons><addon id="repository.cache-sk" name="Sleduj-TV addons" version="2.0" provider-name="sleduj-tv">
+<addons><addon id="repository.sleduj-tv" name="Sleduj-TV addons" version="2.0" provider-name="sleduj-tv">
     <extension point="xbmc.addon.repository" name="Sleduj-TV addons">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/sleduj-tv/repository.sleduj-tv/master/repository/addons.xml</info>
