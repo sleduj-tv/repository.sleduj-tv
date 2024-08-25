@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.cache-sk" name="Kodi cache-sk Addons" version="1.0.5" provider-name="cache-sk">
-    <extension point="xbmc.addon.repository" name="Kodi cache-sk Addons">
+<addon id="repository.sleduj-tv" name="Sleduj-TV addons" version="2.0" provider-name="sleduj-tv">
+    <extension point="xbmc.addon.repository" name="Sleduj-TV addons">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/cache-sk/kodirepo/master/repository/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/cache-sk/kodirepo/master/repository/addons.xml.md5</checksum>
@@ -8,8 +8,8 @@
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>Kodi cache-sk Addons</summary>
-        <description>Kodi cache-sk Addons</description>
+        <summary>Doplnky</summary>
+        <description>Nová verzia Kodi repozitára pre verziu Omega a Nexus</description>
         <platform>all</platform>
         <assets>
             <icon>icon.png</icon>
